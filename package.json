@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/nicolasaddamo1/redis/issues"
   },
-  "homepage": "https://github.com/nicolasaddamo1/redis#readme"
+  "homepage": "https://github.com/nicolasaddamo1/redis#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
